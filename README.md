@@ -5,7 +5,7 @@
 My name is Bishal and I'm a MERN Stack developer, from  India, 💬 on bishalkumar5707@gmail.com .
 
 
-<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" >
+<img align="right" alt="Coding" width="390" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 
 # 💫 About Me:
